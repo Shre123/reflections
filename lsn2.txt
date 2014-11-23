@@ -3,3 +3,22 @@ What happens when you initialize a repository? Why do you need to do it?
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 	According to my understanding of the staging area, it is more like a edit mode of files, that tracks the changes in the file and saves them as a different version in the repository.
+
+How can you use the staging area to make sure you have one commit per logical change?
+	git diff command gives the difference between the files in working directory and staging directory . 
+	(git add adds it to staging directory, if the file ws already committed now the file in WD = SD = REP.)
+	When after some modification of the file in the working directory , now the WD modified file , SD = REP.
+	git status modifications to the file in the WD.
+	git log will still show previous commits.
+	Now git add file_name command will make WD = SD = modified file. Rep = old_file.
+
+	Check git diff --staged to verify if the differences between the committed file and new modification are what you need and are one just one logcal.
+	if not remove the changes and git add again and then if happy git commit filename to move the file from staging area to REP.
+
+	Now again WD = SD = Rep.
+
+What are some situations when branches would be useful in keeping your history orgnised? How would branches help?
+	Branches are the best additional feauture of the GIT so far as it gives the flexibility to experiment with our code without affecting the main code.
+	Having Parallel branches for different versions of code is amazing!
+
+	
