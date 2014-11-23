@@ -21,4 +21,7 @@ What are some situations when branches would be useful in keeping your history o
 	Branches are the best additional feauture of the GIT so far as it gives the flexibility to experiment with our code without affecting the main code.
 	Having Parallel branches for different versions of code is amazing!
 
+How do the diagrams help you visualise the branch structure?
+	Diagrams have come in handy to understand the bit tricky part of branch structure of git.
+
 	
