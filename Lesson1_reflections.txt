@@ -1,0 +1,5 @@
+Lesson 1 of introduction to Git and GitHub has enlightened me about 
+1.comparing different files
+2. Get a good start on using Linux and Git Bash.
+3. Intoduced me to Sublime.
+4. Looks like this session is going to be fun!!

@@ -1,0 +1,15 @@
+Lesson 1 of introduction to Git and GitHub has enlightened me about 
+1.comparing different files
+2. Get a good start on using Linux and Git Bash.
+3. Intoduced me to Sublime.
+4. Looks like this session is going to be fun!!
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+	1.Having the history of our work could easily give us an idea of how it progressed over the time.
+	2. We can trace any changes done by anoyone over a period of time.
+	3. We can restore to any of the older versions easily becaus none of our work is actually lost.
+
+How do I want to use GIT?
+	I want it to make my life simpler.
+	My coding life more efficient and definitely more fun!!
