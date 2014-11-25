@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+	git init command is needed to initialise our  regular folder into something that is trackable by the git. So when I use the commit command it will save the versions of all the files in my folder turned repository.
