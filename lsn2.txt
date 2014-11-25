@@ -1,2 +1,5 @@
 What happens when you initialize a repository? Why do you need to do it?
 	git init command is needed to initialise our  regular folder into something that is trackable by the git. So when I use the commit command it will save the versions of all the files in my folder turned repository.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+	According to my understanding of the staging area, it is more like a edit mode of files, that tracks the changes in the file and saves them as a different version in the repository.
