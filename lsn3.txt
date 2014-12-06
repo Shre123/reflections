@@ -1,0 +1,2 @@
+When would you want to use a remote repository rather than keeping all your work local?
+    May be when handling are many files of large size, I do not want to clutter and use the space of my local machine.
