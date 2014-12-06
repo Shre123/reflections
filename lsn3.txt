@@ -1,2 +1,17 @@
 When would you want to use a remote repository rather than keeping all your work local?
     May be when handling are many files of large size, I do not want to clutter and use the space of my local machine.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+    Clone: Use it either to get a repository from GitHub to your local machine or from one place in local machine to another 
+    directory.
+    for cloning from GitHub to local:
+                                                git clone "http url of the repository"
+    Fork: Use this when you want to copy a repository from other user on GitHub to your own GitHub page.
+    for forking:
+                                                Click on the fork button on their page.
+                                                
+    Branch: Use this to create another branch similar to your master branch for tweaking, experimenting but still want to keep
+    your master branch unaffected.
+    To create a new branch:
+                                                git branch "new branch name"
+            
