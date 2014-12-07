@@ -1,2 +1,9 @@
 When would you want to use a remote repository rather than keeping all your work local?
     May be when handling are many files of large size, I do not want to clutter and use the space of my local machine.
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+	Since the GitHub page is public, we might have commits that are not ready for public viewing yet.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+	This is helpful when we go have to go without internet for a while, then we can make sure that we will be working on the file 
+	with all the latest changes in them.
